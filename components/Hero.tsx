@@ -22,7 +22,7 @@ export default function Hero() {
       {/* Content */}
       <div className="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-          South Florida's go-to Tree and Landscaping Service
+          South Florida&apos;s go-to Tree and Landscaping Service
         </h1>
         
         {/* 5 Star Rating and Book Now Button */}

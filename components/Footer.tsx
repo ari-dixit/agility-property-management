@@ -18,7 +18,7 @@ export default function Footer() {
               <span className="text-lg font-bold">Agility Property Maintenance</span>
             </div>
             <p className="text-gray-400">
-              South Florida's go-to Tree and Landscaping Service. Professional, reliable, and quality work.
+              South Florida&apos;s go-to Tree and Landscaping Service. Professional, reliable, and quality work.
             </p>
           </div>
 

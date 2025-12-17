@@ -53,7 +53,7 @@ export default function ContactForm() {
                 </svg>
               </div>
               <h3 className="text-2xl font-bold text-gray-900 mb-2">Thank You!</h3>
-              <p className="text-gray-600">We'll get back to you as soon as possible.</p>
+              <p className="text-gray-600">We&apos;ll get back to you as soon as possible.</p>
             </div>
           ) : (
             <form onSubmit={handleSubmit} className="space-y-6">

@@ -68,7 +68,7 @@ export default function Reviews() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">What Our Customers Say</h2>
-          <p className="text-xl text-gray-600">Don't just take our word for it</p>
+          <p className="text-xl text-gray-600">Don&apos;t just take our word for it</p>
         </div>
 
         {loading ? (
@@ -89,7 +89,7 @@ export default function Reviews() {
                     ))}
                   </div>
                 </div>
-                <p className="text-gray-700 mb-4 italic">"{review.text}"</p>
+                <p className="text-gray-700 mb-4 italic">&quot;{review.text}&quot;</p>
                 <div className="flex justify-between items-center">
                   <p className="font-semibold text-gray-900">{review.author}</p>
                   <p className="text-sm text-gray-500">{review.time}</p>
